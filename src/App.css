@@ -1,0 +1,29 @@
+*{
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+  width: 100%;
+  
+}
+h1{
+  margin-left: 50px;
+  font-size: 150px;
+  
+  width: 700px;
+}
+
+.fit-text{
+  background: url("mujerFit2.jpg");
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+p{
+  margin-left: 50px;
+  left: 80px;
+  font-size: 30px;
+  width: 700px;
+}
+
